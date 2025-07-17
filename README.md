@@ -3,6 +3,7 @@ A modern-looking Now Playing overlay for OBS, with Last.fm and Spotify support
 
 This project is based on [OBS-NowPlaying](https://github.com/sorachan/OBS-NowPlaying/#) by **sorachan**.
 This is very much a work in progress and I would like to make it more user-friendly in the near future by offering an online version.
+
 Make sure to check out vzsg's fork, [PyNowCooing](https://github.com/vzsg/PyNowCooing), which uses Windows' SystemMediaTransportControl and supports most (if not all) modern media players, including Spotify, Foobar2000, Apple Music and YouTube.
 
 ## Functionalities
